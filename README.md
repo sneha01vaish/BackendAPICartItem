@@ -14,7 +14,6 @@ Features
 
 🎯 RESTful Design - Clean API endpoints following REST principles
 
-⚡ ES6 Modern JavaScript - Uses latest JavaScript features
 #Tech Stack
 Backend: Node.js, Express.js
 Language: JavaScript (ES6+)
