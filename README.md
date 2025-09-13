@@ -5,12 +5,17 @@ A RESTful API built with Node.js and Express.js that provides product listing an
 
 Features
 📦 Product Management - List products with pagination and search
+
 🛒 Shopping Cart - Add, update, remove items with session management
+
 ✅ Input Validation - Comprehensive validation and error handling
+
 🔄 Session Support - Session-based cart storage using UUID
+
 🎯 RESTful Design - Clean API endpoints following REST principles
+
 ⚡ ES6 Modern JavaScript - Uses latest JavaScript features
-Tech Stack
+#Tech Stack
 Backend: Node.js, Express.js
 Language: JavaScript (ES6+)
 Storage: In-memory (production ready for database integration)
