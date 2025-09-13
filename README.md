@@ -33,20 +33,17 @@ bash
    npm install
 Start the server
 bash
-   # Development mode (auto-restart on changes)
-   npm run dev
-   
-   # Or production mode
+   # How to start
    npm start
-Verify installation
-bash
+   Verify installation
+   bash
    curl http://localhost:3000/api/health
+   
 The server will run on http://localhost:3000
 
-API Endpoints
+API Endpoints:
 Products
-Get All Products
-http
+1.Get All Products :http
 GET /api/products
 Query Parameters:
 
