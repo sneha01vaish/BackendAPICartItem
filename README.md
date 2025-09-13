@@ -167,17 +167,26 @@ Add x-session-id header for cart operations
 Test all endpoints with different scenarios
 
 #Project Structure
-product-cart-api/
+
+BackendAPICartItem/
+
 ├── server.js          # Main server file with all routes
 ├── package.json       # Dependencies and scripts
 
 #Key Features Implemented
+
 ✅ Product Listing
+
 ✅ Cart Management with session support
+
 ✅ Input Validation and error handling
+
 ✅ Stock Management and availability checks
+
 ✅ RESTful API design with proper HTTP methods
+
 ✅ ES6 JavaScript with modern syntax
+
 ✅ Session Management using UUID
 
 
