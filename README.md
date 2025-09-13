@@ -165,11 +165,13 @@ Import the API endpoints
 Set base URL to http://localhost:3000/api
 Add x-session-id header for cart operations
 Test all endpoints with different scenarios
-Project Structure
+
+#Project Structure
 product-cart-api/
 ├── server.js          # Main server file with all routes
 ├── package.json       # Dependencies and scripts
-Key Features Implemented
+
+#Key Features Implemented
 ✅ Product Listing
 ✅ Cart Management with session support
 ✅ Input Validation and error handling
